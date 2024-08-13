@@ -10,7 +10,7 @@ Plots:
 <img src="WeatherPy/output_data/Fig2_humidity.png" width=200>
 <img src="WeatherPy/output_data/Fig3_cloudiness.png" width=200>
 <img src="WeatherPy/output_data/Fig4_wind.png" width=200>
-<img src="WeatherPy/output_data/Fig5_maxtemp_nh_reg" width=200>
+<img src="WeatherPy/output_data/Fig5_maxtemp_nh_reg.png" width=200>
 <img src="WeatherPy/output_data/Fig6_maxtemp_sh_reg.png" width=200>
 <img src="WeatherPy/output_data/Fig7_humidity_nh_reg.png" width=200>
 <img src="WeatherPy/output_data/Fig8_humidity_sh_reg.png" width=200>
