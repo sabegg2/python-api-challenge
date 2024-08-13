@@ -7,6 +7,17 @@ The output files, including the city data upon which my plots are based, are in 
 
 Plots:
 <img src="WeatherPy/output_data/Fig1_maxtemp.png" width=200>
+<img src="WeatherPy/output_data/Fig2_humidity.png" width=200>
+<img src="WeatherPy/output_data/Fig3_cloudiness.png" width=200>
+<img src="WeatherPy/output_data/Fig4_wind.png" width=200>
+<img src="WeatherPy/output_data/Fig5_maxtemp_nh_reg" width=200>
+<img src="WeatherPy/output_data/Fig6_maxtemp_sh_reg.png" width=200>
+<img src="WeatherPy/output_data/Fig7_humidity_nh_reg.png" width=200>
+<img src="WeatherPy/output_data/Fig8_humidity_sh_reg.png" width=200>
+<img src="WeatherPy/output_data/Fig9_cloudiness_nh_reg.png" width=200>
+<img src="WeatherPy/output_data/Fig10_cloudiness_sh_reg.png" width=200>
+<img src="WeatherPy/output_data/Fig11_wind_nh_reg.png" width=200>
+<img src="WeatherPy/output_data/Fig12_wind_sh_reg.png" width=200>
 
 As a couple of examples of my output, here are maps showing the cities in my analysis and, of these, Steph's ideal cities with a hotel within 10km:
 ![cities_in_dataset](WeatherPy/output_data/cities_in_dataset.png?raw=true)
