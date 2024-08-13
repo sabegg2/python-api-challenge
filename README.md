@@ -17,9 +17,8 @@ Plots: <img src="WeatherPy/output_data/Fig1_maxtemp.png" width=300>
 <img src="WeatherPy/output_data/Fig10_cloudiness_sh_reg.png" width=300>
 <img src="WeatherPy/output_data/Fig11_wind_nh_reg.png" width=300>
 <img src="WeatherPy/output_data/Fig12_wind_sh_reg.png" width=300>
-
-![cities_in_dataset](WeatherPy/output_data/cities_in_dataset.png?raw=true)
-![cities_in_dataset](WeatherPy/output_data/ideal_cities_with_hotels.png?raw=true)
+<img src="WeatherPy/output_data/cities_in_dataset.png" width=500>
+<img src="WeatherPy/output_data/ideal_cities_with_hotels.png" width=500>
 
 I wrote the code entirely on my own without collaboration or any online AI source (although Google was occasionally helpful for syntax). Several of the methods and techniques we learned in class.
 
