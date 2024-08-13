@@ -6,7 +6,8 @@ The [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb) and [VacationPy.ipynb](WeatherP
 The output files, including the city data upon which my plots are based, are in the [output_data folder](WeatherPy/output_data). 
 
 As a couple of examples of my output, here are maps showing the cities in my analysis and, of these, Steph's ideal cities with a hotel within 10km:
-<img src="WeatherPy/output_data/cities_in_dataset.png" width=100>
+
+<img src="WeatherPy/output_data/cities_in_dataset.png" width=500>
 ![cities_in_dataset](WeatherPy/output_data/cities_in_dataset.png?raw=true)
 ![cities_in_dataset](WeatherPy/output_data/ideal_cities_with_hotels.png?raw=true)
 
