@@ -5,7 +5,7 @@ The [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb) and [VacationPy.ipynb](WeatherP
 
 The output files, including the city data upon which my plots are based, are in the [output_data folder](WeatherPy/output_data).  Below are thumbnails of the various plots.
 
-<img src="WeatherPy/output_data/Fig1_maxtemp.png" width=200>
+Plots: <img src="WeatherPy/output_data/Fig1_maxtemp.png" width=200>
 <img src="WeatherPy/output_data/Fig2_humidity.png" width=200>
 <img src="WeatherPy/output_data/Fig3_cloudiness.png" width=200>
 <img src="WeatherPy/output_data/Fig4_wind.png" width=200>
